@@ -25,7 +25,7 @@ The future scope of this project includes:
 - **Ownership Verification**: Anyone can verify the current owner of a piece of land by querying the blockchain.
 - **Immutable Records**: All transactions are permanently stored on the blockchain, ensuring transparency and tamper-proof ownership records.
 
-##Contract Adress "0xf4da1ae8eb524293eda4379b9b069e1cbb7c178e8dc3408c39ab4cdf13d5a7af"
+## Contract Adress "0xf4da1ae8eb524293eda4379b9b069e1cbb7c178e8dc3408c39ab4cdf13d5a7af"
 
 ![image](https://github.com/user-attachments/assets/b50ffc5f-1e9c-4fd8-848f-fa08dfa14c5f)
 
