@@ -25,15 +25,10 @@ The future scope of this project includes:
 - **Ownership Verification**: Anyone can verify the current owner of a piece of land by querying the blockchain.
 - **Immutable Records**: All transactions are permanently stored on the blockchain, ensuring transparency and tamper-proof ownership records.
 
----
+##Contract Adress "0xf4da1ae8eb524293eda4379b9b069e1cbb7c178e8dc3408c39ab4cdf13d5a7af"
 
-### Code Snippet Overview:
+![image](https://github.com/user-attachments/assets/b50ffc5f-1e9c-4fd8-848f-fa08dfa14c5f)
 
-The system works by defining a `Land` struct with properties such as `land_id`, `location`, `size`, and `current_owner`. There are three key functions in the contract:
 
-1. **register_land**: Registers new land with a unique land ID.
-2. **transfer_land_ownership**: Transfers ownership of land to a new address.
-3. **verify_ownership**: Verifies the current owner of a piece of land by querying the blockchain.
 
-The system uses Aptos' framework for managing accounts and assets (e.g., `AptosCoin` for payments) and ensures secure, transparent transactions.
 
