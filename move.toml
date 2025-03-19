@@ -1,0 +1,17 @@
+[package]
+name = "BBLM-resume"
+version = "1.0.0"
+authors = []
+
+[addresses]
+LandTitle ="0x2698d3c701f84f75e7729a05475d4399d901fa03290d50da58788af11583516c"
+
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
